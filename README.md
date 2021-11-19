@@ -18,7 +18,6 @@ You can also find us on Discord for help or just to chat:
 |You can also find us on Discord for help<br>or just to chat as well as our Guilded Server|
 |:------------:|
 |<a href="https://discord.gg/enrpMDd"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>|
-|<a href="https://www.guilded.gg/AMPZ-NETWORK"><img src="https://i.imgur.com/YQ9B9Eg.png" alt="www.guilded.gg/AMPZ-NETWORK"  width="200" height="68"></a>|
 <br>
 
 Looking for a Reliable Server Host?
