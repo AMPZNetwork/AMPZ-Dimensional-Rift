@@ -2,9 +2,9 @@
 # AMPZ Dimensional Rift | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>V1/h1>
+<h1>V1</h1>
 
-Initial Release.
++ Initial Release.
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
