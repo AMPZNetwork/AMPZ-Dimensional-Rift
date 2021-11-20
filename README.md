@@ -1,5 +1,5 @@
 <p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_Header.png" alt="Get your server today!"  width="1920" height="200"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/AMPZ_Dimensional_Rift/BH_ADR_HEADER.png" alt="Get your server today!"  width="1125" height="132"></a>|
 </p>
 ======
 
@@ -25,5 +25,5 @@ Looking for a Reliable Server Host?
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
 <p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
+| <img src="https://cdn.discordapp.com/attachments/834066237583655012/911297229791297586/BH_ADR_PROMOCODE.png" alt="Get your server today!"  width="1125" height="132"></a>|
 </p>
