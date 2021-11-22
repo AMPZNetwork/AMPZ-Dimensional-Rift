@@ -6,8 +6,9 @@
 This is the official repository and issue-tracker for AMPZ Dimensional Rift
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/ampz-dimensional-rift 
-+ https://www.technicpack.net/modpack/ampz-dimensional-rift.1893141 
++ https://www.technicpack.net/modpack/ampz-dimensional-rift.1893141
++ https://www.curseforge.com/minecraft/modpacks/ampz-dimensional-rift
++ https://atlauncher.com/pack/AMPZDimensionalRift
 
 Need Help?
 ======
