@@ -2,6 +2,29 @@
 # AMPZ Dimensional Rift | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
+<h1>V2.1</h1>
+
+**Updated:**
++ Minecraft Forge (14.23.5.2855 → 14.23.5.2859)
+
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Updated Server files (recommend all server owners to use the new files provided).
++ Modpack will now display the name and status of any server built for this pack.
+
+
+**Added:**<br>
++ 
+
+
+**Removed:**<br>
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
+
+------------------------------------------------------------------
 <h1>V2</h1>
 
 **Updated:**
