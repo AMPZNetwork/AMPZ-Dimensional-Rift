@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # AMPZ Dimensional Rift | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
-
+## Be sure to always backup your world(s) before updating!
+------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 <h1>V2.1</h1>
 
 **Updated:**
@@ -21,8 +21,8 @@
 **Removed:**<br>
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift)
 
 ------------------------------------------------------------------
 <h1>V2</h1>
@@ -43,8 +43,8 @@ https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
 **Removed:**
 + Warpdrive
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift)
 
 ------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
 
 + Initial Release.
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift)
 
 ------------------------------------------------------------------
