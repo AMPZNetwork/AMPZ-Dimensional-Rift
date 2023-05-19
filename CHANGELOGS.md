@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------------------------  
 <h1>V3</h1>
 
-<h4>This update should be compatible with previous worlds, however it's not a guarantee.</4>
+<h4>This update should be compatible with previous worlds, however it's not a guarantee.</h4>
 
 **Updated:** 
 + AE Additions - ExtraCells2 Fork (1.3.2 → 1.3.8)
