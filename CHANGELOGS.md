@@ -3,7 +3,34 @@
 -----------------------------------------------------------------------------------------------  
 # AMPZ Dimensional Rift | Patch Notes
 ## Be sure to always backup your world(s) before updating!
------------------------------------------------------------------------------------------------  
+----------------------------------------------------------------------------------------------- 
+<h1>V4 - Security Patch</h1>
+
+<h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
+
+**Updated:** 
++ BisectHosting Server Integration Menu (2.1 → 2.4.0)
++ AE Additions - ExtraCells2 Fork (1.3.2 → 1.3.8)
++ EnderCore (0.5.76 → 0.5.78)
++ Ender IO (5.3.70 → 5.3.72)
++ FancyMenu (2.14.3 → 2.14.9)
++ Galacticraft Legacy (4.0.5 → 4.0.6)
++ Gas Conduits (5.3.70 → 5.3.72)
++ Konkrete (1.6.0 → 1.6.1)
++ MixinBooter (7.1 → 8.3)
++ Placebo (1.6.0 → 1.6.1)
++ WanionLib (2.9 → 2.91)
++ Xaero's Minimap (23.3.3 → 23.6.0)
+
+**Changed/Fixed**
++ Updated to address the recent bleeding pipe exploit. Learn more details [here](https://github.com/dogboy21/serializationisbad).
+
+**Added:**
++ SerializationIsBad
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-Dimensional-Rift)
+
+------------------------------------------------------------------
 <h1>V3</h1>
 
 <h4>This update should be compatible with previous worlds, however it's not a guarantee.</h4>
